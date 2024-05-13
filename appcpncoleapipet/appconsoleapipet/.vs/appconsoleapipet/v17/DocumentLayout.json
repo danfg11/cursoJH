@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AndresDiaz\\source\\repos\\cursoJH\\appcpncoleapipet\\appconsoleapipet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D665757-AE3B-45A4-B192-C08DDC75B939}|appconsoleapipet\\appconsoleapipet.csproj|c:\\users\\andresdiaz\\source\\repos\\cursojh\\appcpncoleapipet\\appconsoleapipet\\appconsoleapipet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D665757-AE3B-45A4-B192-C08DDC75B939}|appconsoleapipet\\appconsoleapipet.csproj|solutionrelative:appconsoleapipet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 427,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AndresDiaz\\source\\repos\\cursoJH\\appcpncoleapipet\\appconsoleapipet\\appconsoleapipet\\Program.cs",
+              "RelativeDocumentMoniker": "appconsoleapipet\\Program.cs",
+              "ToolTip": "C:\\Users\\AndresDiaz\\source\\repos\\cursoJH\\appcpncoleapipet\\appconsoleapipet\\appconsoleapipet\\Program.cs",
+              "RelativeToolTip": "appconsoleapipet\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T05:53:11.776Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 503,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 730,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

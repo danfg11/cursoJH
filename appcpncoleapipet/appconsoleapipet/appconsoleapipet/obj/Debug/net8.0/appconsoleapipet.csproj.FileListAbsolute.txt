@@ -1,0 +1,14 @@
+C:\Users\AndresDiaz\source\repos\cursoJH\appcpncoleapipet\appconsoleapipet\appconsoleapipet\bin\Debug\net8.0\appconsoleapipet.exe
+C:\Users\AndresDiaz\source\repos\cursoJH\appcpncoleapipet\appconsoleapipet\appconsoleapipet\bin\Debug\net8.0\appconsoleapipet.deps.json
+C:\Users\AndresDiaz\source\repos\cursoJH\appcpncoleapipet\appconsoleapipet\appconsoleapipet\bin\Debug\net8.0\appconsoleapipet.runtimeconfig.json
+C:\Users\AndresDiaz\source\repos\cursoJH\appcpncoleapipet\appconsoleapipet\appconsoleapipet\bin\Debug\net8.0\appconsoleapipet.dll
+C:\Users\AndresDiaz\source\repos\cursoJH\appcpncoleapipet\appconsoleapipet\appconsoleapipet\bin\Debug\net8.0\appconsoleapipet.pdb
+C:\Users\AndresDiaz\source\repos\cursoJH\appcpncoleapipet\appconsoleapipet\appconsoleapipet\obj\Debug\net8.0\appconsoleapipet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AndresDiaz\source\repos\cursoJH\appcpncoleapipet\appconsoleapipet\appconsoleapipet\obj\Debug\net8.0\appconsoleapipet.AssemblyInfoInputs.cache
+C:\Users\AndresDiaz\source\repos\cursoJH\appcpncoleapipet\appconsoleapipet\appconsoleapipet\obj\Debug\net8.0\appconsoleapipet.AssemblyInfo.cs
+C:\Users\AndresDiaz\source\repos\cursoJH\appcpncoleapipet\appconsoleapipet\appconsoleapipet\obj\Debug\net8.0\appconsoleapipet.csproj.CoreCompileInputs.cache
+C:\Users\AndresDiaz\source\repos\cursoJH\appcpncoleapipet\appconsoleapipet\appconsoleapipet\obj\Debug\net8.0\appconsoleapipet.dll
+C:\Users\AndresDiaz\source\repos\cursoJH\appcpncoleapipet\appconsoleapipet\appconsoleapipet\obj\Debug\net8.0\refint\appconsoleapipet.dll
+C:\Users\AndresDiaz\source\repos\cursoJH\appcpncoleapipet\appconsoleapipet\appconsoleapipet\obj\Debug\net8.0\appconsoleapipet.pdb
+C:\Users\AndresDiaz\source\repos\cursoJH\appcpncoleapipet\appconsoleapipet\appconsoleapipet\obj\Debug\net8.0\appconsoleapipet.genruntimeconfig.cache
+C:\Users\AndresDiaz\source\repos\cursoJH\appcpncoleapipet\appconsoleapipet\appconsoleapipet\obj\Debug\net8.0\ref\appconsoleapipet.dll
